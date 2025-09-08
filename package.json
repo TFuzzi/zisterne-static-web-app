@@ -1,0 +1,10 @@
+{
+  "name": "zisterne-static-web-app",
+  "version": "1.0.0",
+  "description": "Simple static web app for Azure deployment",
+  "scripts": {
+    "build": "echo No build needed"
+  },
+  "author": "",
+  "license": "MIT"
+}
